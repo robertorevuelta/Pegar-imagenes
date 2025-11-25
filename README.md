@@ -1,3 +1,4 @@
 # Pegar-imagenes
 breve descripcion
-![imagen](imagenes/ana bear 2.png)
+![](imagenes/ana bear 2.png)
+
